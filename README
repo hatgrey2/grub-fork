@@ -1,6 +1,11 @@
-This is GRUB 2, the second version of the GRand Unified Bootloader.
-GRUB 2 is rewritten from scratch to make GNU GRUB cleaner, safer, more
-robust, more powerful, and more portable.
+# GRUB 2.1
+
+This is grub 2.1 fork ,
+In this version boot from disc image option is being added , 
+which improves portability of the installed os , 
+instead of installing os and booting from bare metal hard drive.
+
+# GRUB 2
 
 See the file NEWS for a description of recent changes to GRUB 2.
 
